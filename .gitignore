@@ -1,5 +1,2 @@
 node_modules
 .env
-MONGO_CONNECTION_STRING=mongodb://127.0.0.1:27017/practice-job-app
-MONGO_PASS=rsBGQdltRvzrxjZF
-ATLAS_CONNECTION_STRING=mongodb+srv://jsarkar0201:rsBGQdltRvzrxjZF@cluster0.tesfe1q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
